@@ -56,7 +56,7 @@ const Cart = () => {
             <div className="wrap">
               <header
                 className="cart-header cf"
-                style={items.length === 0 && !loading && { border: "none" }}
+                style={{ border: items.length === 0 && !loading && "none" }}
               >
                 <strong>
                   {items && items.length === 1 && !loading
@@ -70,7 +70,7 @@ const Cart = () => {
               </header>
               <div
                 className="cart-table"
-                style={items.length === 0 && !loading && { border: "none" }}
+                style={{ border: items.length === 0 && !loading && "none" }}
               >
                 <ul>
                   {items &&
