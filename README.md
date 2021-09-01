@@ -2,9 +2,9 @@
 > Ecommerce store built in NextJS and Shopify.
 
 ## Citations
-> https://codepen.io/AdamMorsi/pen/WNvXzZL
-> https://codepen.io/RUSHWAY/pen/ZEEBjyz
-> https://codepen.io/jrexo/pen/YNzpdp
+- https://codepen.io/AdamMorsi/pen/WNvXzZL
+- https://codepen.io/RUSHWAY/pen/ZEEBjyz
+- https://codepen.io/jrexo/pen/YNzpdp
 
 
 ## Getting Started
