@@ -1,4 +1,11 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Gaming Nation Plus
+> Ecommerce store built in NextJS and Shopify.
+
+## Citations
+> https://codepen.io/AdamMorsi/pen/WNvXzZL
+> https://codepen.io/RUSHWAY/pen/ZEEBjyz
+> https://codepen.io/jrexo/pen/YNzpdp
+
 
 ## Getting Started
 
